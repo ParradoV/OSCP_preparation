@@ -2,7 +2,7 @@ GIT CharSheet
 
 **Configuración Inicial
 
-git config –global user.name “nombre”
+*git config –global user.name “nombre”
 
 git config –global user.email “correo@electronico.com”
 
