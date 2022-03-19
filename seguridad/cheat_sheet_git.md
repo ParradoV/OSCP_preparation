@@ -1,6 +1,6 @@
 GIT CharSheet
 
-Configuración Inicial
+**Configuración Inicial
 
 git config –global user.name “nombre”
 
